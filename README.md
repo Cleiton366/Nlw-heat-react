@@ -28,3 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3000).
 
+[Acesse aqui o repositório do back-end](https://github.com/Cleiton366/Nlw-heat-node)
